@@ -1,5 +1,5 @@
 {
-	"types": [
+	"gosos_types": [
 		{ "type": "AA", "description": "Accrual Activity" },
 		{ "type": "AP", "description": "Accrual Position" },
 		{ "type": "CB", "description": "CBLC Reporting" },
@@ -20,5 +20,30 @@
 		{ "type": "SE", "description": "Settlement Calendar" }, 
 		{ "type": "TN", "description": "Trade Notes" }, 
 		{ "type": "US", "description": "User Security" }
-	]
+	],
+
+	"posting_types": [
+		{"posting_type": "POSTING TYPE", "bl": "B/L", "description": "DESCRIPTION"}, 
+		{"posting_type": "B", "bl": "B", "description": "Borrow"}, 
+		{"posting_type": "BBC", "bl": "B", "description": "Bonds Borrowed"}, 
+		{"posting_type": "BNR", "bl": "B", "description": "Bonus Receive"}, 
+		{"posting_type": "BUY", "bl": "B", "description": "Buy/Sell Back"}, 
+		{"posting_type": "CLR", "bl": "B", "description": "Collateral Receive"}, 
+		{"posting_type": "CSD", "bl": "B", "description": "Cash Deposit (memo only)"}, 
+		{"posting_type": "ML", "bl": "B", "description": "Money Loan"}, 
+		{"posting_type": "RPI", "bl": "B", "description": "Reverse Repo"}, 
+		{"posting_type": "RTR", "bl": "B", "description": "Rights Receive"}, 
+		
+		{"posting_type": "BLC", "bl": "L", "description": "Bonds Loan"}, 
+		{"posting_type": "BND", "bl": "L", "description": "Bonus Deliver"}, 
+		{"posting_type": "CLD", "bl": "L", "description": "Collateral Deliver"}, 
+		{"posting_type": "CSB", "bl": "L", "description": "Cash Borrow (memo only)"}, 
+		{"posting_type": "H", "bl": "L", "description": "Lenders Hold"}, 
+		{"posting_type": "L", "bl": "L", "description": "Loan"}, 
+		{"posting_type": "LP", "bl": "L", "description": "Principal Loan"}, 
+		{"posting_type": "MB", "bl": "L", "description": "Money Borrowed"}, 
+		{"posting_type": "RPO", "bl": "L", "description": "Repo"}, 
+		{"posting_type": "RTD", "bl": "L", "description": "Rights Deliver"}, 
+		{"posting_type": "SEL", "bl": "L", "description": "Sell/Buy Back"}
+	],
 }
