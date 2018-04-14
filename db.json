@@ -1,4 +1,5 @@
 {
+	{
 	"gosos_types": [
 		{ "type": "AA", "description": "Accrual Activity" },
 		{ "type": "AP", "description": "Accrual Position" },
@@ -21,7 +22,10 @@
 		{ "type": "TN", "description": "Trade Notes" }, 
 		{ "type": "US", "description": "User Security" }
 	],
+	},
 
+
+	{
 	"posting_types": [
 		{"posting_type": "B", "bl": "B", "description": "Borrow"}, 
 		{"posting_type": "BBC", "bl": "B", "description": "Bonds Borrowed"}, 
@@ -44,4 +48,5 @@
 		{"posting_type": "RTD", "bl": "L", "description": "Rights Deliver"}, 
 		{"posting_type": "SEL", "bl": "L", "description": "Sell/Buy Back"}
 	]
+	}
 }
