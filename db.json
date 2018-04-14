@@ -45,5 +45,5 @@
 		{"posting_type": "RPO", "bl": "L", "description": "Repo"}, 
 		{"posting_type": "RTD", "bl": "L", "description": "Rights Deliver"}, 
 		{"posting_type": "SEL", "bl": "L", "description": "Sell/Buy Back"}
-	],
+	]
 }
