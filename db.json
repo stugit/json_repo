@@ -23,7 +23,6 @@
 	],
 
 	"posting_types": [
-		{"posting_type": "POSTING TYPE", "bl": "B/L", "description": "DESCRIPTION"}, 
 		{"posting_type": "B", "bl": "B", "description": "Borrow"}, 
 		{"posting_type": "BBC", "bl": "B", "description": "Bonds Borrowed"}, 
 		{"posting_type": "BNR", "bl": "B", "description": "Bonus Receive"}, 
@@ -33,7 +32,6 @@
 		{"posting_type": "ML", "bl": "B", "description": "Money Loan"}, 
 		{"posting_type": "RPI", "bl": "B", "description": "Reverse Repo"}, 
 		{"posting_type": "RTR", "bl": "B", "description": "Rights Receive"}, 
-		
 		{"posting_type": "BLC", "bl": "L", "description": "Bonds Loan"}, 
 		{"posting_type": "BND", "bl": "L", "description": "Bonus Deliver"}, 
 		{"posting_type": "CLD", "bl": "L", "description": "Collateral Deliver"}, 
