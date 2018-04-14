@@ -1,0 +1,61 @@
+[{
+	"type": "AA",
+	"description": "Accrual Activity"
+}, {
+	"type": "AP",
+	"description": "Accrual Position"
+}, {
+	"type": "CB",
+	"description": "CBLC Reporting"
+}, {
+	"type": "CL",
+	"description": "Counterparty Standing Data (Client)"
+}, {
+	"type": "CO",
+	"description": "Confirms"
+}, {
+	"type": "CS",
+	"description": "Class"
+}, {
+	"type": "CU",
+	"description": "Currency"
+}, {
+	"type": "DC",
+	"description": "Dividend & Corporate Actions"
+}, {
+	"type": "DE",
+	"description": "Delivery"
+}, {
+	"type": "DT",
+	"description": "Activity"
+}, {
+	"type": "RT",
+	"description": "Fee/Rebate"
+}, {
+	"type": "RA",
+	"description": "Recall Activity"
+}, {
+	"type": "RD",
+	"description": "Position"
+}, {
+	"type": "RG",
+	"description": "Report Groups"
+}, {
+	"type": "RP",
+	"description": "Recall Position"
+}, {
+	"type": "SC",
+	"description": "Security"
+}, {
+	"type": "SD",
+	"description": "Standing Data Changes"
+}, {
+	"type": "SE",
+	"description": "Settlement Calendar"
+}, {
+	"type": "TN",
+	"description": "Trade Notes"
+}, {
+	"type": "US",
+	"description": "User Security"
+}]
